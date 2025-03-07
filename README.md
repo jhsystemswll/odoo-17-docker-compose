@@ -126,7 +126,7 @@ server {
 
 ## Odoo 17.0 screenshots after successful installation.
 
-<img src="screenshots/odoo-17-welcome-screenshot.png" width="50%">
+<img src="screenshots/odoo-17-welcome-screenshot.png" width="60%">
 
 <img src="screenshots/odoo-17-apps-screenshot.png" width="100%">
 
